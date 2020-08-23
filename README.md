@@ -1,0 +1,2 @@
+# MySample
+To learn GIT
